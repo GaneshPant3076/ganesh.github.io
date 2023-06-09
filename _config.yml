@@ -13,20 +13,20 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Kathmandu
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Learners # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: learning collection # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  learning collection
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://GaneshPant3076.github.io"
 
 github:
   username: github_username # change to your github username
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://en.gravatar.com/userimage/236087567/32031a9a07513d10f8d67a87df5afd77.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
